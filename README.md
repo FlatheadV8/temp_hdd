@@ -3,6 +3,11 @@ Dieses Skript habe ich als erstes von hier runtergeladen:
 https://github.com/cytopia/freebsd-tools/blob/master/hdd-temp.sh
 und dann für meine Zwecke noch etwas erweitert.
 
+Es war in seiner Ursprünglichen Form für Linux geschriben, funktioniert aber auch auf FreeBSD.
+Ich setzte diese erweiteret Version nur auf FreeBSD ein, sie sollte aber auch auf Linux funktionieren.
+
+Für beide Version (das Original und meine erweiteret Version) benötige ein installiertes "smartctl"!
+
 Dieses Skript zeigt die Temperatur aller Festplatten im System an und ggf. durch farbliche Kennung auch fehlerhafte Festplatten.
 
 die Temperatur kann 3 Farben annehmen: grün, gelb und rot
